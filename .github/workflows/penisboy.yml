@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-"""
 IonStack Kernel Config Generator
 =================================
 Parses an ARM64 kernel ELF (vmlinux) and generates an ionstack.conf
